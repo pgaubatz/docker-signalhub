@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "pkg": "^4.3.1",
+    "signalhub": "^4.9.0"
+  },
+  "name": "signalhub",
+  "private": true,
+  "bin": "node_modules/signalhub/bin.js",
+  "pkg": {
+    "targets": [
+      "node8-alpine"
+    ]
+  }
+}
